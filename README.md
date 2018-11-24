@@ -3,4 +3,4 @@
 I am the README.
 
 Process flow diagram:
-![alt text](/amQvm.png)
+![alt text](/amQvm.png?raw=true)
