@@ -3,4 +3,4 @@
 I am the README.
 
 Process flow diagram:
-![alt text](amQvm.png?raw=true "Optional Title")
+![alt text](https://github.com/MrShedman/spectrum_teensy/blob/master/amQvm.jpg)
